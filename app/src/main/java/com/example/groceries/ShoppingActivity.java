@@ -24,6 +24,7 @@ public class ShoppingActivity extends AppCompatActivity {
         String message ="";
         for (Object s: arr){
             message += s + "\t";
+
         }
 
         Log.i("Send email", "");
